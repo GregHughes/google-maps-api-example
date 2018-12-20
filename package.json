@@ -1,0 +1,11 @@
+{
+  "name": "google-maps-api-example",
+  "version": "0.0.1",
+  "description": "An example demonstrating use of Google Maps API to display custom markers, info windows, and styles.",
+  "browser": "app.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GregHughes/google-maps-api-example"
+  },
+  "author": "Greg Hughes"
+}
